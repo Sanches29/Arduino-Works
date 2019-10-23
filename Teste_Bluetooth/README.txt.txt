@@ -1,0 +1,1 @@
+Programa destinado ao teste de um módulo bluetooth AT-09, com simples envios de comandos AT e configurações a partir destes.
